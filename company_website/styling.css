@@ -1,0 +1,36 @@
+/* style body by adding background image and set it to cover,add font-family */
+body{
+    background:url(https://images.unsplash.com/photo-1526234172573-67cabe4ebc80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=670&q=80) no-repeat center center fixed;
+    font-family:Arvo    ,serif;
+    height:600px;
+    background-size: cover;
+
+}
+
+/* style brand */
+.logo{
+    height:30px;
+    width:30px;
+}
+
+.navbar{
+    background:rgba(0,0,0,0.5);
+}
+.nav li{
+    color:#fff;
+    font-size:17px;
+    margin-right:35px;
+    padding:10px 0;
+
+}
+/* style navigation bar */
+/* style jumbotron */
+/* limit the width of the icon struucture */
+/* style icons section using bootstrap grid system */
+
+/* style contact button */
+/* style footer */
+/* use @media queries to change icons size in small devices */
+
+
+

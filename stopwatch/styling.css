@@ -1,0 +1,28 @@
+body{
+    background:url("images/beach.jpg");
+    background-size:cover;
+    
+    
+   
+    
+}
+#header{
+    font-family: "cinzel";
+    text-align: center;
+    color:#fff;
+    font-size: 7vw;
+}
+
+#lap{
+    font-family: "cinzel";
+    text-align:right;
+    color:#fff;
+    font-size:4vw;
+}
+
+#time{
+    font-family: "cinzel";
+    text-align: center;
+    color:#fff;
+    font-size:9vw;
+}
